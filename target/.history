@@ -1,0 +1,38 @@
+compile
+run
+:q
+exit
+compile
+reload
+compile
+about
+reload
+about
+update-sbt-classifiers
+about
+help update-classifiers
+help update
+reload
+about
+compile
+exit
+about
+exit
+about
+compile
+reload
+compile
+test
+run
+help run
+help
+help r*
+help run*
+runMain DrawTest
+runMain ebarrientos.test.DrawTest
+test ebarrientos.test.DrawTest
+help test*
+test-only ebarrientos.test.DrawTest
+test:runMain ebarrientos.test.DrawTest
+test:runMain DrawTest
+exit
