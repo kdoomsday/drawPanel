@@ -25,7 +25,6 @@ object DrawTest extends SimpleSwingApplication {
     val r2 = FilledRect(70, 30, 80, 100, Color.RED)
     
     
-//    p add (Rectangle(10, 10, 20, 40), Point(15, 15), r1, r2)
     p add (FilledOval((100.0, 100.0), 100, 50, Color.BLUE))
     p add (Line(15, 20, 200, 90, Color.GREEN))
     p add (Line(100, 25, 100, 175), Line(25, 100, 175, 100))
